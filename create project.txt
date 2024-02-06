@@ -1,0 +1,4 @@
+step:-1) react app install ->with using NPM command
+step:-2) mui install->work at ->ui design ->link(https://mui.com/)
+		+
+mui icon install->work at ->icon ->link (https://mui.com/material-ui/material-icons/)
